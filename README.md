@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vikas0262
-- 👀 I’m interested in Android Development,Web Development.
+- 👀 I’m interested in App Development,Web Development.
 - 🌱 I’m currently learning Web Development.
 - 💻 C,C++,JAVA,PYTHON.
 - 📫 How to reach me: vikas.sahyogcollege@gmail.com
