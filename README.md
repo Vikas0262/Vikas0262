@@ -2,7 +2,7 @@
 - 👀 I’m Very Passionate For Programming and Problem-Solving enthusiasts. I'm always ready to learn new things with Effective ideas.
 - 🌱 I’m currently learning Web Development.
 - 👨🏻‍💻 Most of my projects are available on GitHub.
-- 💻 C,C++,JAVA,PYTHON.
+- 💻 C,C++,JAVA,JavaScript, ReactJs, NodeJs.
 - 📫 How to reach me: vikas.v6543@gmail.com
   
 <!---
