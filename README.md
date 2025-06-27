@@ -1,53 +1,71 @@
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&width=435&lines=Hi,+I'm+Vikas+Vishwakarma!;Full-Stack+Developer+%7C+Problem+Solver;Learning+%26+Building+Everyday!" alt="Typing SVG" /></h2>
-
-
-
-### 🌟 About Me  
-- 👋 **Hi, I’m Vikas Vishwakarma**, a passionate **Full-Stack Developer** and lifelong learner.  
-- 🚀 I specialize in creating scalable, efficient, and user-friendly web applications.  
-- 💡 I love solving complex problems, collaborating on innovative ideas, and exploring modern technologies.  
-- 🌱 Currently expanding my knowledge of **backend systems**, and **databases**.  
-- 📫 You can reach me at **vikas.6543@gmail.com** for collaborations or discussions!  
+<h1 align="center">Hi 👋, I'm Vikas Vishwakarma</h1>
+<h3 align="center">🚀 Full-Stack Developer | AWS Explorer | Learning Spring Boot | Passionate About Real-World Projects</h3>
 
 ---
 
-### 💻 My Expertise  
+## 🌟 About Me
 
-#### **Frontend Development**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50" title="HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="50" title="CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" title="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" title="React">
-</p>
-
-#### **Backend & Database Management**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" title="Node.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" title="MySQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" title="MongoDB">
-</p>
-
-#### **Programming Languages**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" title="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" title="C">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" title="C++">
-</p>
-
-#### **Tools I Use**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" title="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" title="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50" title="Figma">
-</p>
+- 👨‍💻 I'm a passionate and result-driven **Full-Stack Developer**.
+- 💻 I have strong command over the **MERN stack** and love building full-fledged web applications.
+- 🌱 Currently exploring **AWS Cloud Services** to scale and deploy secure, modern apps.
+- 🚀 I enjoy turning complex challenges into clean, efficient code.
+- 📬 Reach out: **vikas.6543@gmail.com**
 
 ---
 
-### 🌐 Connect with Me  
+### 🔗 My Portfolio
 
-<p>
-  <a href="https://www.linkedin.com/in/vikas-vishwakarma-9a2343244/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" title="LinkedIn">
+<p align="center">
+  <a href="https://vikas-vishwakarma.vercel.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
+
+---
+
+## 🚀 Tech Stack & Tools
+
+### 🧩 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" title="TailwindCSS"/>
+</p>
+
+### 🔧 Backend & Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" title="SQL Server"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" title="Spring Boot"/>
+</p>
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>
+</p>
+
+### ☁️ Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS"/>
+</p>
+
+---
+
+> 🔥 *"Code. Learn. Repeat. Let's build the future, one repo at a time."*
